@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=+3V3 Pin=J4-1
+Removed Pin From Net: NetName=+3V3 Pin=J5-1
+Removed Pin From Net: NetName=+3V3 Pin=J6-1
+Removed Pin From Net: NetName=+3V3 Pin=J8-1
+Removed Pin From Net: NetName=CANRX0 Pin=R5-1
+Removed Pin From Net: NetName=25_XTI/MCLK Pin=R5-2
+Change Component DesignItemId : Designator=C16 Old DesignItemId=EA00008430 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C17 Old DesignItemId=EA00008430 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C18 Old DesignItemId=EA00008430 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C19 Old DesignItemId=EA00008430 New DesignItemId=Cap
+Change Component Footprint: Designator=C16 Old Footprint=0402_s New Footprint=0603_s
+Change Component Footprint: Designator=C17 Old Footprint=0402_s New Footprint=0603_s
+Change Component Footprint: Designator=C18 Old Footprint=0402_s New Footprint=0603_s
+Change Component Footprint: Designator=C19 Old Footprint=0402_s New Footprint=0603_s
+Change Component Comment : Designator=C16 Old Comment=Capacitor New Comment=Cap
+Change Component Comment : Designator=C17 Old Comment=Capacitor New Comment=Cap
+Change Component Comment : Designator=C18 Old Comment=Capacitor New Comment=Cap
+Change Component Comment : Designator=C19 Old Comment=Capacitor New Comment=Cap
+Added Pin To Net: NetName=25_XTI/MCLK Pin=R5-1
+Added Pin To Net: NetName=CANRX0 Pin=R5-2
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Net: Name=NetJ8_1

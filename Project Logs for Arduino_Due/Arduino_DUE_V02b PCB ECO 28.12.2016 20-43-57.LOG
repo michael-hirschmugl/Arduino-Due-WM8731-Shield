@@ -1,0 +1,15 @@
+Change Component DesignItemId : Designator=C2 Old DesignItemId=EA00008430 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C4 Old DesignItemId=EA00008430 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C6 Old DesignItemId=EA00008430 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C8 Old DesignItemId=EA00008430 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C10 Old DesignItemId=EA00008430 New DesignItemId=Cap
+Change Component Footprint: Designator=C2 Old Footprint=0402_s New Footprint=0603_s
+Change Component Footprint: Designator=C4 Old Footprint=0402_s New Footprint=0603_s
+Change Component Footprint: Designator=C6 Old Footprint=0402_s New Footprint=0603_s
+Change Component Footprint: Designator=C8 Old Footprint=0402_s New Footprint=0603_s
+Change Component Footprint: Designator=C10 Old Footprint=0402_s New Footprint=0603_s
+Change Component Comment : Designator=C2 Old Comment=Capacitor New Comment=Cap
+Change Component Comment : Designator=C4 Old Comment=Capacitor New Comment=Cap
+Change Component Comment : Designator=C6 Old Comment=Capacitor New Comment=Cap
+Change Component Comment : Designator=C8 Old Comment=Capacitor New Comment=Cap
+Change Component Comment : Designator=C10 Old Comment=Capacitor New Comment=Cap

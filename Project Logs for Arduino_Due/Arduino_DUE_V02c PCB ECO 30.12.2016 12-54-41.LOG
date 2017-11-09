@@ -1,0 +1,3 @@
+Added Component: Designator=R30(0402_s)
+Added Pin To Net: NetName=3_BCLK Pin=R30-1
+Added Pin To Net: NetName=PIN23 Pin=R30-2

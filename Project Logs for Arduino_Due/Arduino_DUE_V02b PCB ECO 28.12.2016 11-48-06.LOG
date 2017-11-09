@@ -1,0 +1,20 @@
+Added Component: Designator=J1(FC68131)
+Added Component: Designator=J2(FC68131)
+Added Component: Designator=J3(FC68131)
+Added Pin To Net: NetName=11_HPGND Pin=J1-1
+Added Pin To Net: NetName=11_HPGND Pin=J2-1
+Added Pin To Net: NetName=11_HPGND Pin=J3-1
+Added Pin To Net: NetName=NetC21_2 Pin=J3-2
+Added Pin To Net: NetName=NetC20_2 Pin=J3-5
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=J1-5
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=J1-2
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R18-2
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-5
+Added Pin To Net: NetName=NetJ2_5 Pin=R17-2
+Added Net: Name=NetJ2_5

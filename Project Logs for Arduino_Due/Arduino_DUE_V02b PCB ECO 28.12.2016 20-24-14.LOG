@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=C1-1
+Removed Pin From Net: NetName=11_HPGND Pin=C1-2
+Change Component DesignItemId : Designator=C1 Old DesignItemId=EEEFK1H100UR New DesignItemId=EA00008430
+Change Component Comment : Designator=C1 Old Comment=EEEFK1H100UR New Comment=Capacitor
+Change Component Library : Designator=C1 Old Library=CODEC_SHIELD.SchLib New Library=AVLDiTEST Bauteile.DbLib
+Added Pin To Net: NetName=11_HPGND Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C1-2
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC1_2

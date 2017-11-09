@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: D:\ALTIUM\MISC_WORKSPACE\CODEC_SHIELD\Arduino_DUE_V02c.PcbDoc
+RuleKind=Clearance|RuleName=Clearance GND Plane|Scope=Board|Minimum=30.00
+RuleKind=Width|RuleName=Power Nets|Scope=Board|Minimum=12.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00

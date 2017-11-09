@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=20_LLINEIN Pin=C16-1
+Removed Pin From Net: NetName=20_LLINEIN Pin=IC1-20
+Change Net Name : Old Net Name=20_LLINEIN New Net Name=AD1
+Added Pin To Net: NetName=20_LLINEIN Pin=C16-1
+Added Pin To Net: NetName=20_LLINEIN Pin=IC1-20
+Added Net: Name=20_LLINEIN

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Arduino_DUE_V02c.PcbDoc]
+   Generated File[Arduino_DUE_V02c.TXT]
+   Generated File[Arduino_DUE_V02c.LDP]
+   Generated File[Arduino_DUE_V02c.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:20:42 On 30.12.2016

@@ -1,0 +1,9 @@
+Added Component: Designator=R27(0402_s)
+Added Component: Designator=R28(0402_s)
+Added Component: Designator=R29(0402_s)
+Added Pin To Net: NetName=+3V3 Pin=R27-1
+Added Pin To Net: NetName=NetJ5_1 Pin=R27-2
+Added Pin To Net: NetName=+3V3 Pin=R28-1
+Added Pin To Net: NetName=NetJ6_1 Pin=R28-2
+Added Pin To Net: NetName=+3V3 Pin=R29-1
+Added Pin To Net: NetName=NetJ8_1 Pin=R29-2
